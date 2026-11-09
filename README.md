@@ -1,4 +1,6 @@
 # Proiect facultate 2026
+### Proiectul total e mai mare decat limita permisa de GIT (https://docs.github.com/en/repositories/creating-and-managing-repositories/repository-limits)
+Descaca proiect portabil : https://s.go.ro/wcjbe32w | parola: 219511
 
 ## Talking Avatar 3D · Manual de predare, utilizare și susținere
 
