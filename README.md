@@ -2,7 +2,7 @@
 ### Proiectul total e mai mare decat limita permisa de GIT (https://docs.github.com/en/repositories/creating-and-managing-repositories/repository-limits)
 Descaca proiect portabil : https://s.go.ro/wcjbe32w | parola: 219511
 
-Descarca Proiect cu fisierele de Unity : [https://s.go.ro/p4oj2y98 | parola: 565358](https://s.go.ro/aaw5yf06 | parola: 372979)
+Descarca Proiect cu fisierele de Unity : https://s.go.ro/5ltgta7r | parola: 425889
 
 Descarca proiect web cu nodejs si windows tts, fara piper tts : https://s.go.ro/bhsar26a | parola: 211566
 
