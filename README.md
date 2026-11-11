@@ -1,6 +1,6 @@
 # Proiect facultate 2026
 ### Proiectul total e mai mare decat limita permisa de GIT (https://docs.github.com/en/repositories/creating-and-managing-repositories/repository-limits)
-Descarcă proiect portabil final : https://s.go.ro/5ltgta7r | parola: 425889
+Descarcă proiect portabil final : https://s.go.ro/rwh0bs2s | parola: 694330
 
 Descarcă Proiect cu fișierele de Unity v1 : https://s.go.ro/p4oj2y98 | parola: 565358
 
