@@ -1,10 +1,10 @@
 # Proiect facultate 2026
 ### Proiectul total e mai mare decat limita permisa de GIT (https://docs.github.com/en/repositories/creating-and-managing-repositories/repository-limits)
-Descaca proiect portabil final : https://s.go.ro/5ltgta7r | parola: 425889
+Descarcă proiect portabil final : https://s.go.ro/5ltgta7r | parola: 425889
 
-Descarca Proiect cu fisierele de Unity v1 : https://s.go.ro/p4oj2y98 | parola: 565358
+Descarcă Proiect cu fișierele de Unity v1 : https://s.go.ro/p4oj2y98 | parola: 565358
 
-Descarca proiect web cu nodejs si windows tts, fara piper tts : https://s.go.ro/bhsar26a | parola: 211566
+Descarcă proiect web cu nodejs și windows tts, fără piper tts : https://s.go.ro/bhsar26a | parola: 211566
 
 <img width="587" height="265" alt="image" src="https://github.com/user-attachments/assets/17d7e7ad-3699-45de-b0cf-1ad51c85f133" />
 
